@@ -1,0 +1,7 @@
+dogs
+cats
+rainbows
+chicken
+popsicle
+tennis
+umbrella
